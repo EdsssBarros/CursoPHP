@@ -1,0 +1,17 @@
+<?php
+
+$idade = 21;
+$salario = 1000;
+$decimal = 10.3;
+$divisao = 10/3;
+$texto = "Olá mundo";
+$verdadeiro = true;
+$falso = false;
+
+echo gettype($idade) . "\n";
+echo gettype($salario) . "\n";
+echo gettype($decimal) . "\n";
+echo gettype($divisao) . "\n";
+echo gettype($texto) . "\n";
+echo gettype($verdadeiro) . "\n";
+echo gettype($falso) . "\n";

@@ -1,0 +1,17 @@
+<?php
+
+//$idade = 21;
+//$idadeHa5Anos = $idade - 5;
+//$multiplicacao = 1 x 1;
+
+$soma = 5+5;
+$subtracao = 37-7;
+$multiplicacao = 5*5;
+$divisao = 15/3;
+$potencia = 5**3;
+
+echo "soma de 5+5 =" . $soma . "\n";
+echo "subtração de 37 - 7 =" . $subtracao . "\n";
+echo "multiplicacao de 5x5 =" . $multiplicacao . "\n";
+echo "divisao de 15/3 =" . $divisao . "\n";
+echo "potencia de 5^3 =" . $potencia . "\n";
